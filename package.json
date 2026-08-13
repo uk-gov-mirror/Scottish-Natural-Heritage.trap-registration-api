@@ -55,5 +55,8 @@
     "arrowParens": "always",
     "bracketSpacing": false,
     "trailingComma": "none"
+  },
+  "overrides": {
+    "lodash": "4.18.1"
   }
 }
